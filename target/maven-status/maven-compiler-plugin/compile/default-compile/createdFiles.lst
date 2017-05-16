@@ -1,0 +1,4 @@
+co/edu/javeriana/aes/modval/bolivarianoms/model/MensajeBolivariano.class
+co/edu/javeriana/aes/modval/bolivarianoms/message/processing/MessageListener.class
+co/edu/javeriana/aes/modval/bolivarianoms/Application.class
+co/edu/javeriana/aes/modval/bolivarianoms/message/processing/BolivarianoProcessor.class
